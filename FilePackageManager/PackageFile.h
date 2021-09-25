@@ -43,4 +43,5 @@ private:
 	std::string								m_strPackFilename;
 	std::unique_ptr<CTailInfo>	m_pTailInfo;
 	__int64									m_nEndFilePart;
+	__int64									m_nTEST;
 };
