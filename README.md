@@ -1,4 +1,4 @@
-# FilePackageManager (Resource File Packer)
+# FilePackageManager(TDD 기반 개발)
 
 **TDD(Test-Driven Development) 기반으로 개발된 파일 패키징 도구**로, 리소스 파일을 하나의 패키지화된 파일로 묶어 빠른 로딩 속도 확보 및 패치 프로그램 개발에 유용하게 사용할 수 있습니다.
 
